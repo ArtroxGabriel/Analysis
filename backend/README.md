@@ -42,7 +42,7 @@ Relacionamentos:
 
 ## Frontend
 
-O código-fonte do frontend correspondente a esta aplicação está disponível no repositório [Analysis-Frontend](https://github.com/ArtroxGabriel/Analysis-Frontend).
+O código-fonte do frontend correspondente a esta aplicação está disponível no repositório [Analysis-Frontend](../frontend).
 
 ## Contribuição
 

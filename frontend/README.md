@@ -28,7 +28,7 @@ O frontend será executado em http://localhost:3000 por padrão.
 
 ## Backend
 
-O código-fonte do backend correspondente a esta aplicação está disponível no repositório [Analysis-Backend](https://github.com/ArtroxGabriel/Analysis-Backend).
+O código-fonte do backend correspondente a esta aplicação está disponível no repositório [Analysis-Backend](../backend).
 
 ## Contribuição
 
