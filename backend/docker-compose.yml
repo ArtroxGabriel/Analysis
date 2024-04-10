@@ -14,7 +14,7 @@ services:
 
   analysis-backend:
     build:
-      context: ./Analysis-Backend
+      context: .
       dockerfile: Dockerfile
     container_name: analysis-container
     ports:
