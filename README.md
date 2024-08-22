@@ -1,6 +1,8 @@
 # Analysis
 Este é o repositório da aplicação Analysis, um mini projeto para aprender o framework spring boot 3
 
+[English version](./readme-en.md)
+
 
 
 | | Linguagens | tecnologias principais |
